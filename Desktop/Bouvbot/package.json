@@ -1,0 +1,13 @@
+{
+  "name": "BouvBot",
+  "version": "0.1.0",
+  "description": "Projet de Bot personnalisé pour modération et musique.",
+  "main": "main.js",
+  "repository": "https://github.com/Bouvmax/BouvBot",
+  "author": "Bouvmax",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.1.1",
+    "node.js": "^0.0.1-security"
+  }
+}
