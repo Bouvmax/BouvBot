@@ -4,14 +4,15 @@
   "description": "Projet de Bot personnalisé pour modération et musique.",
   "main": "main.js",
   "engines": {
-    "node": "12.16.1"
+    "node.js": "12.16.1"
+  },
+  "scripts": {
+    "test": "echo \"Error : no test specified\" && exit 1",
+    "start": "node main.js"
   },
   "repository": "https://github.com/Bouvmax/BouvBot",
   "author": "Bouvmax",
   "license": "MIT",
-  "scripts": {
-    "start": "node index.js"
-  },
   "dependencies": {
     "@discordjs/opus": "^0.1.0",
     "discord.js": "^12.1.1",
